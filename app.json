@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAM-D3VIL/D3vilBot/",
+  "repository": "https://github.com/devilking12/D3vilBot/",
   "website": "https://github.com/D3KRISH/",
   "success_url": "https://t.me/D3VIL_SUPPORT",
   "env": {
@@ -110,7 +110,7 @@
   },{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
   },{
-    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+    "url": "https://github.
   },{
     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
